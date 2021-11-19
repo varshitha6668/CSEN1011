@@ -7,8 +7,8 @@
         scanf("%d",&a);
        
 	    printf("enter any number;");
-        scanf("%d,&b");
+        scanf("%d",&b);
         c=a+b;
-        printf("your answer is %d,c");
+        printf("your answer is %d",c);
          return 0;
      }
