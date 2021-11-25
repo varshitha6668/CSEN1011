@@ -1,0 +1,6 @@
+algorithm
+1.start
+2.read principal interest,Rate and time
+3.calculate interest using formula 
+4.print simple interest 
+5.stop
