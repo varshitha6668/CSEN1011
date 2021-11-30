@@ -1,0 +1,11 @@
+ algorithm to calculate net salary of an employe
+1.start
+2.enter basic
+3.enter hra
+4.enter ta
+5.enter others
+6. calculate da 12% of basic salary 
+7.calculate pf 14% of basic salary
+8.calculate it 15% of basic salary
+9.calculate net salary=basic+da+hra+ta+others-(pf+it);
+10.end
